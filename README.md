@@ -206,4 +206,4 @@ This repository serves as the official landing page for NCH EyeLine. The softwar
 **Get the most recent version of NCH EyeLine today!**
 
 ---
-**Last updated:** 2026-11-08 09:47:44 UTC
+**Last updated:** 2026-11-08 16:28:23 UTC
